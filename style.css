@@ -1,0 +1,13 @@
+ body {
+    height: 657px;
+    width: 1356px;
+ border: 5px solid #EF962D ;
+ background-image: linear-gradient( white, #EF962D);
+ margin: 0px;
+}
+
+ header{
+     height: 50px;
+    background-color: white;
+    width:1356px ;
+ }
